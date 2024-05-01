@@ -119,7 +119,7 @@ elif final.count(0)==final.count(1):
 else:
     print("You're doing great! Would you still like to see our options anyways? Maybe for someone you know atleast?")
     
-print(final)
+#print(final)
 
 problem='problem'
 while problem!=0:
